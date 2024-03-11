@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+반갑습니다😄 ! Tmax Tibero 에서 3년차 DBMS QA Engineer 로 일하고 있는 김민정입니다 !
+새로운 것을 끊임없이 배우는 것을 좋아하고 공부하고 있습니다.🌱
+
+
+💻Skills
+<img src="https://img.shields.io/badge/#00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp 
+
+
