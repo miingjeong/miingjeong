@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 
 
-
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswjd7461)](https://solved.ac/alswjd7461/)
 
 
 
